@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ハミング",
+  "base_artist": "幾田りら",
+  "createdAt": "2025-12-01T06:43:38.335425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハミング",
+      "artist": "Lucie, Too",
+      "has_synced": true,
+      "path": "select/01_ハミング_Lucie,_Too.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハミング",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/02_ハミング_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブルーバード･ハミング♪",
+      "artist": "青葉つむぎ(CV.石川界人)",
+      "has_synced": true,
+      "path": "select/03_ブルーバード・ハミング♪_青葉つむぎ(CV.石川界人).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハミング",
+      "artist": "Lilas",
+      "has_synced": true,
+      "path": "select/04_ハミング_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハミング Humming",
+      "artist": "Lucie,Too",
+      "has_synced": true,
+      "path": "select/05_ハミング_Humming_Lucie,Too.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハミングバード",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_01_ハミングバード_YUKI.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハミングsoon!",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_02_ハミングsoon!_YUKI.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ハミングバードと星の砂",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_03_ハミングバードと星の砂_YUKI.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ハミングがきこえる",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_04_ハミングがきこえる_YUKI.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ハミングロード",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_05_ハミングロード_YUKI.txt"
+    }
+  ]
+}
